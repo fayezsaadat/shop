@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0b0b0d">
+<title>Checkout — VOLT ATHLETICS</title>
+<meta name="description" content="Secure checkout for your VOLT ATHLETICS order.">
+<meta name="robots" content="noindex">
+<link rel="icon" href="images/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/responsive.css">
+</head>
+<body data-page="checkout">
+<a class="skip-link" href="#main">Skip to content</a>
+<div id="site-header"></div>
+
+<main id="main">
+  <div class="container">
+    <div class="page-head">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="index.html">Home</a><span aria-hidden="true">/</span>
+        <a href="cart.html">Cart</a><span aria-hidden="true">/</span><span>Checkout</span>
+      </nav>
+      <h1 class="h1" style="margin:14px 0 22px">Checkout</h1>
+      <div class="steps" id="checkoutSteps"></div>
+    </div>
+
+    <div class="checkout-layout">
+      <div id="checkoutMain">
+        <form id="checkoutForm" novalidate></form>
+      </div>
+      <aside id="checkoutAside">
+        <div class="panel panel--gray panel--sticky" id="checkoutSummary"></div>
+      </aside>
+    </div>
+  </div>
+</main>
+
+<div id="site-footer"></div>
+
+<script src="js/products.js"></script>
+<script src="js/cart.js"></script>
+<script src="js/wishlist.js"></script>
+<script src="js/auth.js"></script>
+<script src="js/app.js"></script>
+<script src="js/checkout.js"></script>
+</body>
+</html>

@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0b0b0d">
+<title>Sign In — VOLT ATHLETICS</title>
+<meta name="description" content="Sign in to your VOLT ATHLETICS account to track orders, save addresses and sync your wishlist.">
+<meta name="robots" content="noindex">
+<link rel="icon" href="images/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/responsive.css">
+</head>
+<body data-page="login">
+<a class="skip-link" href="#main">Skip to content</a>
+<div id="site-header"></div>
+
+<main id="main">
+  <div class="auth-layout">
+
+    <!-- ---------------------------------------------------------- aside -->
+    <aside class="auth-aside">
+      <div class="auth-aside__glow" aria-hidden="true"></div>
+      <div class="auth-aside__content">
+        <p class="eyebrow eyebrow--accent">Members</p>
+        <blockquote style="margin-top:16px">The work is the same<br>every day. Your kit<br>should be too.</blockquote>
+      </div>
+      <ul class="auth-aside__list">
+        <li><span data-icon="truck"></span><span>Free express shipping on orders over $75</span></li>
+        <li><span data-icon="package"></span><span>Track every order from one place</span></li>
+        <li><span data-icon="heart"></span><span>Your wishlist, synced and saved</span></li>
+        <li><span data-icon="sparkle"></span><span>Early access to every new drop</span></li>
+      </ul>
+    </aside>
+
+    <!-- ----------------------------------------------------------- form -->
+    <div class="auth-main">
+      <div class="auth-card">
+        <div class="auth-card__head">
+          <p class="eyebrow">Welcome back</p>
+          <h1 class="h1" style="font-size:clamp(1.9rem,3.6vw,2.6rem);margin:10px 0 8px">Sign in</h1>
+          <p class="muted">New here? <a href="register.html" style="text-decoration:underline;text-underline-offset:3px;font-weight:600">Create an account</a></p>
+        </div>
+
+        <div id="loginAlert"></div>
+
+        <form id="loginForm" novalidate>
+          <div class="field">
+            <label for="login-email">Email address</label>
+            <input class="input" id="login-email" name="email" type="email" autocomplete="email"
+                   data-rules="required|email" placeholder="you@example.com">
+            <p class="error-text"></p>
+          </div>
+
+          <div class="field">
+            <label for="login-password">Password</label>
+            <div class="password-field">
+              <input class="input" id="login-password" name="password" type="password"
+                     autocomplete="current-password" data-rules="required" placeholder="Your password">
+              <button class="password-toggle" type="button"></button>
+            </div>
+            <p class="error-text"></p>
+          </div>
+
+          <div class="flex between items-center wrap gap-12" style="margin:4px 0 22px">
+            <label class="check">
+              <input type="checkbox" name="remember" checked><span class="box"></span>
+              <span>Remember me</span>
+            </label>
+            <a href="#" id="forgotLink" class="small" style="text-decoration:underline;text-underline-offset:3px">Forgot password?</a>
+          </div>
+
+          <button class="btn btn--primary btn--block btn--lg" type="submit">Sign in</button>
+        </form>
+
+        <div class="auth-divider">or continue with</div>
+
+        <div class="social-auth">
+          <button class="btn btn--outline btn--block" type="button" data-social="Google">Google</button>
+          <button class="btn btn--outline btn--block" type="button" data-social="Apple">Apple</button>
+        </div>
+
+        <div class="alert alert--info" style="margin-top:24px">
+          <span data-icon="info"></span>
+          <span><b>Demo account</b> — demo@voltathletics.com / Volt1234
+            <button type="button" id="useDemo" style="text-decoration:underline;font-weight:600;margin-left:4px">Fill in</button>
+          </span>
+        </div>
+
+        <p class="small muted center" style="margin-top:22px">
+          Protected by reCAPTCHA. <a href="info.html?topic=privacy" style="text-decoration:underline">Privacy</a> ·
+          <a href="info.html?topic=terms" style="text-decoration:underline">Terms</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</main>
+
+<!-- ------------------------------------------------- forgot password -->
+<div class="modal" id="forgotModal" role="dialog" aria-modal="true" aria-labelledby="forgotTitle">
+  <div class="overlay" data-modal-close></div>
+  <div class="modal__sheet" style="max-width:460px">
+    <button class="icon-btn modal__close" type="button" data-modal-close aria-label="Close">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"
+           stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg>
+    </button>
+    <p class="eyebrow">Password reset</p>
+    <h2 class="h2" id="forgotTitle" style="margin:8px 0 10px">Forgot password?</h2>
+    <p class="lede" style="margin-bottom:22px">Enter the email on your account and we will send a reset link.</p>
+    <form id="forgotForm" novalidate>
+      <div class="field">
+        <label for="forgot-email">Email address</label>
+        <input class="input" id="forgot-email" name="email" type="email" data-rules="required|email"
+               placeholder="you@example.com">
+        <p class="error-text"></p>
+      </div>
+      <button class="btn btn--primary btn--block" type="submit">Send reset link</button>
+    </form>
+  </div>
+</div>
+
+<div id="site-footer"></div>
+
+<script src="js/products.js"></script>
+<script src="js/cart.js"></script>
+<script src="js/wishlist.js"></script>
+<script src="js/auth.js"></script>
+<script src="js/app.js"></script>
+<script src="js/account.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('[data-icon]').forEach(function (el) {
+      el.innerHTML = VOLT.icon(el.getAttribute('data-icon'), 19);
+    });
+    document.querySelectorAll('[data-social]').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        VOLT.ui.toast(btn.getAttribute('data-social') + ' sign-in arrives in Phase 2.', { icon: 'info' });
+      });
+    });
+  });
+</script>
+</body>
+</html>

@@ -1,0 +1,1692 @@
+[
+ {
+  "id": "VA-1001",
+  "slug": "apex-performance-tee",
+  "name": "Apex Performance Tee",
+  "garment": "tshirt",
+  "category": "T-Shirts",
+  "gender": "men",
+  "price": 42,
+  "salePrice": 32,
+  "rating": 4.8,
+  "reviews": 412,
+  "popularity": 96,
+  "daysOld": 34,
+  "isNew": false,
+  "bestSeller": true,
+  "colors": [
+   {
+    "key": "black",
+    "name": "Black",
+    "hex": "#17181b"
+   },
+   {
+    "key": "graphite",
+    "name": "Graphite",
+    "hex": "#4a4d55"
+   },
+   {
+    "key": "volt",
+    "name": "Volt",
+    "hex": "#d8ff3c"
+   },
+   {
+    "key": "white",
+    "name": "Off White",
+    "hex": "#f2f2f3"
+   }
+  ],
+  "sizes": [
+   {
+    "size": "XS",
+    "inStock": false
+   },
+   {
+    "size": "S",
+    "inStock": true
+   },
+   {
+    "size": "M",
+    "inStock": true
+   },
+   {
+    "size": "L",
+    "inStock": true
+   },
+   {
+    "size": "XL",
+    "inStock": true
+   },
+   {
+    "size": "XXL",
+    "inStock": true
+   }
+  ],
+  "tagline": "A featherweight training tee engineered for high-output sessions.",
+  "description": "A featherweight training tee engineered for high-output sessions. The Apex Performance Tee is part of the VOLT ATHLETICS core range, developed with athletes over eighteen months of wear testing and refined down to the last seam. Cut from a premium performance fabric that holds its shape wash after wash, it is designed to feel as considered on the street as it does under load.",
+  "fit": "Regular fit. Model is 6'0\" / 183cm and wears a size M.",
+  "fabric": "82% recycled polyester, 18% elastane. 145gsm.",
+  "features": [
+   "Sweat-wicking quick-dry knit",
+   "Flatlock seams to stop chafing",
+   "Anti-odour finish",
+   "Reflective heat-pressed bolt at the back neck"
+  ],
+  "care": "Machine wash cold with like colours. Do not tumble dry. Do not iron print."
+ },
+ {
+  "id": "VA-1002",
+  "slug": "vertex-oversized-hoodie",
+  "name": "Vertex Oversized Hoodie",
+  "garment": "hoodie",
+  "category": "Hoodies",
+  "gender": "men",
+  "price": 88,
+  "salePrice": null,
+  "rating": 4.9,
+  "reviews": 286,
+  "popularity": 92,
+  "daysOld": 12,
+  "isNew": true,
+  "bestSeller": true,
+  "colors": [
+   {
+    "key": "black",
+    "name": "Black",
+    "hex": "#17181b"
+   },
+   {
+    "key": "stone",
+    "name": "Stone",
+    "hex": "#c8c2b8"
+   },
+   {
+    "key": "navy",
+    "name": "Midnight Navy",
+    "hex": "#243044"
+   }
+  ],
+  "sizes": [
+   {
+    "size": "XS",
+    "inStock": true
+   },
+   {
+    "size": "S",
+    "inStock": true
+   },
+   {
+    "size": "M",
+    "inStock": true
+   },
+   {
+    "size": "L",
+    "inStock": true
+   },
+   {
+    "size": "XL",
+    "inStock": true
+   },
+   {
+    "size": "XXL",
+    "inStock": false
+   }
+  ],
+  "tagline": "Relaxed, heavyweight and built to be lived in on and off the gym floor.",
+  "description": "Relaxed, heavyweight and built to be lived in on and off the gym floor. The Vertex Oversized Hoodie is part of the VOLT ATHLETICS core range, developed with athletes over eighteen months of wear testing and refined down to the last seam. Cut from a premium performance fabric that holds its shape wash after wash, it is designed to feel as considered on the street as it does under load.",
+  "fit": "Oversized fit. Size down for a closer silhouette.",
+  "fabric": "80% organic cotton, 20% recycled polyester. Brushed back fleece.",
+  "features": [
+   "Double-layer structured hood",
+   "Kangaroo pocket with hidden phone sleeve",
+   "Ribbed cuffs and hem",
+   "Matte woven bolt label at the hem"
+  ],
+  "care": "Machine wash cold with like colours. Do not tumble dry. Do not iron print."
+ },
+ {
+  "id": "VA-1003",
+  "slug": "drift-7-training-shorts",
+  "name": "Drift 7\" Training Shorts",
+  "garment": "shorts",
+  "category": "Shorts",
+  "gender": "men",
+  "price": 46,
+  "salePrice": 34,
+  "rating": 4.6,
+  "reviews": 198,
+  "popularity": 81,
+  "daysOld": 58,
+  "isNew": false,
+  "bestSeller": false,
+  "colors": [
+   {
+    "key": "black",
+    "name": "Black",
+    "hex": "#17181b"
+   },
+   {
+    "key": "olive",
+    "name": "Olive",
+    "hex": "#5f6a4a"
+   },
+   {
+    "key": "slate",
+    "name": "Slate Blue",
+    "hex": "#5d6b7a"
+   }
+  ],
+  "sizes": [
+   {
+    "size": "XS",
+    "inStock": true
+   },
+   {
+    "size": "S",
+    "inStock": true
+   },
+   {
+    "size": "M",
+    "inStock": true
+   },
+   {
+    "size": "L",
+    "inStock": true
+   },
+   {
+    "size": "XL",
+    "inStock": true
+   },
+   {
+    "size": "XXL",
+    "inStock": true
+   }
+  ],
+  "tagline": "Four-way stretch shorts with a locked-in liner for unrestricted movement.",
+  "description": "Four-way stretch shorts with a locked-in liner for unrestricted movement. The Drift 7\" Training Shorts is part of the VOLT ATHLETICS core range, developed with athletes over eighteen months of wear testing and refined down to the last seam. Cut from a premium performance fabric that holds its shape wash after wash, it is designed to feel as considered on the street as it does under load.",
+  "fit": "Regular fit. Sits on the natural waist.",
+  "fabric": "88% recycled polyester, 12% elastane. Bonded mesh liner.",
+  "features": [
+   "Bonded compression liner",
+   "Zip valuables pocket",
+   "Laser-cut ventilation",
+   "Internal drawcord"
+  ],
+  "care": "Machine wash cold with like colours. Do not tumble dry. Do not iron print."
+ },
+ {
+  "id": "VA-1004",
+  "slug": "momentum-tapered-joggers",
+  "name": "Momentum Tapered Joggers",
+  "garment": "joggers",
+  "category": "Joggers",
+  "gender": "men",
+  "price": 72,
+  "salePrice": null,
+  "rating": 4.7,
+  "reviews": 233,
+  "popularity": 88,
+  "daysOld": 21,
+  "isNew": true,
+  "bestSeller": true,
+  "colors": [
+   {
+    "key": "black",
+    "name": "Black",
+    "hex": "#17181b"
+   },
+   {
+    "key": "graphite",
+    "name": "Graphite",
+    "hex": "#4a4d55"
+   },
+   {
+    "key": "sand",
+    "name": "Desert Sand",
+    "hex": "#d9cbb6"
+   }
+  ],
+  "sizes": [
+   {
+    "size": "XS",
+    "inStock": false
+   },
+   {
+    "size": "S",
+    "inStock": true
+   },
+   {
+    "size": "M",
+    "inStock": true
+   },
+   {
+    "size": "L",
+    "inStock": true
+   },
+   {
+    "size": "XL",
+    "inStock": true
+   },
+   {
+    "size": "XXL",
+    "inStock": true
+   }
+  ],
+  "tagline": "A tapered jogger cut close through the leg with a clean, tailored drape.",
+  "description": "A tapered jogger cut close through the leg with a clean, tailored drape. The Momentum Tapered Joggers is part of the VOLT ATHLETICS core range, developed with athletes over eighteen months of wear testing and refined down to the last seam. Cut from a premium performance fabric that holds its shape wash after wash, it is designed to feel as considered on the street as it does under load.",
+  "fit": "Tapered fit through the thigh and calf.",
+  "fabric": "75% organic cotton, 21% recycled polyester, 4% elastane.",
+  "features": [
+   "Tapered leg with cuffed ankle",
+   "Two deep side pockets and a zip back pocket",
+   "Flat drawcord waistband",
+   "Pre-shrunk fabric"
+  ],
+  "care": "Machine wash cold with like colours. Do not tumble dry. Do not iron print."
+ },
+ {
+  "id": "VA-1005",
+  "slug": "kinetic-seamless-tee",
+  "name": "Kinetic Seamless Tee",
+  "garment": "tshirt",
+  "category": "T-Shirts",
+  "gender": "men",
+  "price": 48,
+  "salePrice": null,
+  "rating": 4.5,
+  "reviews": 141,
+  "popularity": 66,
+  "daysOld": 8,
+  "isNew": true,
+  "bestSeller": false,
+  "colors": [
+   {
+    "key": "navy",
+    "name": "Midnight Navy",
+    "hex": "#243044"
+   },
+   {
+    "key": "volt",
+    "name": "Volt",
+    "hex": "#d8ff3c"
+   },
+   {
+    "key": "black",
+    "name": "Black",
+    "hex": "#17181b"
+   }
+  ],
+  "sizes": [
+   {
+    "size": "XS",
+    "inStock": true
+   },
+   {
+    "size": "S",
+    "inStock": true
+   },
+   {
+    "size": "M",
+    "inStock": true
+   },
+   {
+    "size": "L",
+    "inStock": true
+   },
+   {
+    "size": "XL",
+    "inStock": true
+   },
+   {
+    "size": "XXL",
+    "inStock": true
+   }
+  ],
+  "tagline": "Knitted in one piece with zoned ventilation exactly where you heat up.",
+  "description": "Knitted in one piece with zoned ventilation exactly where you heat up. The Kinetic Seamless Tee is part of the VOLT ATHLETICS core range, developed with athletes over eighteen months of wear testing and refined down to the last seam. Cut from a premium performance fabric that holds its shape wash after wash, it is designed to feel as considered on the street as it does under load.",
+  "fit": "Regular fit. Model is 6'0\" / 183cm and wears a size M.",
+  "fabric": "82% recycled polyester, 18% elastane. 145gsm.",
+  "features": [
+   "Sweat-wicking quick-dry knit",
+   "Flatlock seams to stop chafing",
+   "Anti-odour finish",
+   "Reflective heat-pressed bolt at the back neck"
+  ],
+  "care": "Machine wash cold with like colours. Do not tumble dry. Do not iron print."
+ },
+ {
+  "id": "VA-1006",
+  "slug": "storm-shell-windbreaker",
+  "name": "Storm Shell Windbreaker",
+  "garment": "jacket",
+  "category": "Jackets",
+  "gender": "men",
+  "price": 118,
+  "salePrice": 89,
+  "rating": 4.7,
+  "reviews": 176,
+  "popularity": 74,
+  "daysOld": 46,
+  "isNew": false,
+  "bestSeller": false,
+  "colors": [
+   {
+    "key": "black",
+    "name": "Black",
+    "hex": "#17181b"
+   },
+   {
+    "key": "olive",
+    "name": "Olive",
+    "hex": "#5f6a4a"
+   },
+   {
+    "key": "ice",
+    "name": "Ice Grey",
+    "hex": "#cdd8de"
+   }
+  ],
+  "sizes": [
+   {
+    "size": "XS",
+    "inStock": false
+   },
+   {
+    "size": "S",
+    "inStock": true
+   },
+   {
+    "size": "M",
+    "inStock": true
+   },
+   {
+    "size": "L",
+    "inStock": true
+   },
+   {
+    "size": "XL",
+    "inStock": true
+   },
+   {
+    "size": "XXL",
+    "inStock": false
+   }
+  ],
+  "tagline": "A packable water-repellent shell for cold starts and wet finishes.",
+  "description": "A packable water-repellent shell for cold starts and wet finishes. The Storm Shell Windbreaker is part of the VOLT ATHLETICS core range, developed with athletes over eighteen months of wear testing and refined down to the last seam. Cut from a premium performance fabric that holds its shape wash after wash, it is designed to feel as considered on the street as it does under load.",
+  "fit": "Regular fit with room to layer a mid-weight top underneath.",
+  "fabric": "100% recycled ripstop nylon with a PFC-free DWR finish.",
+  "features": [
+   "Water-repellent PFC-free finish",
+   "Full-length reverse-coil zip",
+   "Elasticated storm cuffs",
+   "Packs into its own pocket"
+  ],
+  "care": "Machine wash cold with like colours. Do not tumble dry. Do not iron print."
+ },
+ {
+  "id": "VA-1007",
+  "slug": "baseline-training-tank",
+  "name": "Baseline Training Tank",
+  "garment": "tank",
+  "category": "Tank Tops",
+  "gender": "men",
+  "price": 34,
+  "salePrice": null,
+  "rating": 4.4,
+  "reviews": 122,
+  "popularity": 58,
+  "daysOld": 74,
+  "isNew": false,
+  "bestSeller": false,
+  "colors": [
+   {
+    "key": "black",
+    "name": "Black",
+    "hex": "#17181b"
+   },
+   {
+    "key": "white",
+    "name": "Off White",
+    "hex": "#f2f2f3"
+   },
+   {
+    "key": "graphite",
+    "name": "Graphite",
+    "hex": "#4a4d55"
+   }
+  ],
+  "sizes": [
+   {
+    "size": "XS",
+    "inStock": true
+   },
+   {
+    "size": "S",
+    "inStock": true
+   },
+   {
+    "size": "M",
+    "inStock": true
+   },
+   {
+    "size": "L",
+    "inStock": true
+   },
+   {
+    "size": "XL",
+    "inStock": true
+   },
+   {
+    "size": "XXL",
+    "inStock": true
+   }
+  ],
+  "tagline": "A dropped-armhole tank that stays out of the way when the bar comes down.",
+  "description": "A dropped-armhole tank that stays out of the way when the bar comes down. The Baseline Training Tank is part of the VOLT ATHLETICS core range, developed with athletes over eighteen months of wear testing and refined down to the last seam. Cut from a premium performance fabric that holds its shape wash after wash, it is designed to feel as considered on the street as it does under load.",
+  "fit": "Relaxed fit. Model is 5'9\" / 175cm and wears a size S.",
+  "fabric": "60% cotton, 35% recycled polyester, 5% elastane. 180gsm.",
+  "features": [
+   "Dropped armholes for full range of motion",
+   "Ribbed, shape-retaining knit",
+   "Tagless neck print",
+   "Scooped hem"
+  ],
+  "care": "Machine wash cold with like colours. Do not tumble dry. Do not iron print."
+ },
+ {
+  "id": "VA-1008",
+  "slug": "forge-heavyweight-hoodie",
+  "name": "Forge Heavyweight Hoodie",
+  "garment": "hoodie",
+  "category": "Hoodies",
+  "gender": "men",
+  "price": 96,
+  "salePrice": null,
+  "rating": 4.9,
+  "reviews": 351,
+  "popularity": 95,
+  "daysOld": 65,
+  "isNew": false,
+  "bestSeller": true,
+  "colors": [
+   {
+    "key": "graphite",
+    "name": "Graphite",
+    "hex": "#4a4d55"
+   },
+   {
+    "key": "black",
+    "name": "Black",
+    "hex": "#17181b"
+   },
+   {
+    "key": "burgundy",
+    "name": "Burgundy",
+    "hex": "#5e2733"
+   }
+  ],
+  "sizes": [
+   {
+    "size": "XS",
+    "inStock": true
+   },
+   {
+    "size": "S",
+    "inStock": false
+   },
+   {
+    "size": "M",
+    "inStock": true
+   },
+   {
+    "size": "L",
+    "inStock": true
+   },
+   {
+    "size": "XL",
+    "inStock": true
+   },
+   {
+    "size": "XXL",
+    "inStock": true
+   }
+  ],
+  "tagline": "480gsm brushed-back fleece with a structured hood that holds its shape.",
+  "description": "480gsm brushed-back fleece with a structured hood that holds its shape. The Forge Heavyweight Hoodie is part of the VOLT ATHLETICS core range, developed with athletes over eighteen months of wear testing and refined down to the last seam. Cut from a premium performance fabric that holds its shape wash after wash, it is designed to feel as considered on the street as it does under load.",
+  "fit": "Oversized fit. Size down for a closer silhouette.",
+  "fabric": "80% organic cotton, 20% recycled polyester. Brushed back fleece.",
+  "features": [
+   "Double-layer structured hood",
+   "Kangaroo pocket with hidden phone sleeve",
+   "Ribbed cuffs and hem",
+   "Matte woven bolt label at the hem"
+  ],
+  "care": "Machine wash cold with like colours. Do not tumble dry. Do not iron print."
+ },
+ {
+  "id": "VA-1009",
+  "slug": "pulse-5-running-shorts",
+  "name": "Pulse 5\" Running Shorts",
+  "garment": "shorts",
+  "category": "Shorts",
+  "gender": "men",
+  "price": 42,
+  "salePrice": null,
+  "rating": 4.5,
+  "reviews": 164,
+  "popularity": 69,
+  "daysOld": 17,
+  "isNew": true,
+  "bestSeller": false,
+  "colors": [
+   {
+    "key": "black",
+    "name": "Black",
+    "hex": "#17181b"
+   },
+   {
+    "key": "navy",
+    "name": "Midnight Navy",
+    "hex": "#243044"
+   },
+   {
+    "key": "volt",
+    "name": "Volt",
+    "hex": "#d8ff3c"
+   }
+  ],
+  "sizes": [
+   {
+    "size": "XS",
+    "inStock": true
+   },
+   {
+    "size": "S",
+    "inStock": true
+   },
+   {
+    "size": "M",
+    "inStock": true
+   },
+   {
+    "size": "L",
+    "inStock": true
+   },
+   {
+    "size": "XL",
+    "inStock": true
+   },
+   {
+    "size": "XXL",
+    "inStock": true
+   }
+  ],
+  "tagline": "Ultralight woven shorts with a laser-cut hem and zip valuables pocket.",
+  "description": "Ultralight woven shorts with a laser-cut hem and zip valuables pocket. The Pulse 5\" Running Shorts is part of the VOLT ATHLETICS core range, developed with athletes over eighteen months of wear testing and refined down to the last seam. Cut from a premium performance fabric that holds its shape wash after wash, it is designed to feel as considered on the street as it does under load.",
+  "fit": "Regular fit. Sits on the natural waist.",
+  "fabric": "88% recycled polyester, 12% elastane. Bonded mesh liner.",
+  "features": [
+   "Bonded compression liner",
+   "Zip valuables pocket",
+   "Laser-cut ventilation",
+   "Internal drawcord"
+  ],
+  "care": "Machine wash cold with like colours. Do not tumble dry. Do not iron print."
+ },
+ {
+  "id": "VA-1010",
+  "slug": "grid-training-tee",
+  "name": "Grid Training Tee",
+  "garment": "tshirt",
+  "category": "T-Shirts",
+  "gender": "men",
+  "price": 38,
+  "salePrice": 29,
+  "rating": 4.3,
+  "reviews": 98,
+  "popularity": 52,
+  "daysOld": 88,
+  "isNew": false,
+  "bestSeller": false,
+  "colors": [
+   {
+    "key": "slate",
+    "name": "Slate Blue",
+    "hex": "#5d6b7a"
+   },
+   {
+    "key": "black",
+    "name": "Black",
+    "hex": "#17181b"
+   },
+   {
+    "key": "sand",
+    "name": "Desert Sand",
+    "hex": "#d9cbb6"
+   }
+  ],
+  "sizes": [
+   {
+    "size": "XS",
+    "inStock": true
+   },
+   {
+    "size": "S",
+    "inStock": true
+   },
+   {
+    "size": "M",
+    "inStock": true
+   },
+   {
+    "size": "L",
+    "inStock": true
+   },
+   {
+    "size": "XL",
+    "inStock": false
+   },
+   {
+    "size": "XXL",
+    "inStock": true
+   }
+  ],
+  "tagline": "A textured grid knit that moves air fast and dries even faster.",
+  "description": "A textured grid knit that moves air fast and dries even faster. The Grid Training Tee is part of the VOLT ATHLETICS core range, developed with athletes over eighteen months of wear testing and refined down to the last seam. Cut from a premium performance fabric that holds its shape wash after wash, it is designed to feel as considered on the street as it does under load.",
+  "fit": "Regular fit. Model is 6'0\" / 183cm and wears a size M.",
+  "fabric": "82% recycled polyester, 18% elastane. 145gsm.",
+  "features": [
+   "Sweat-wicking quick-dry knit",
+   "Flatlock seams to stop chafing",
+   "Anti-odour finish",
+   "Reflective heat-pressed bolt at the back neck"
+  ],
+  "care": "Machine wash cold with like colours. Do not tumble dry. Do not iron print."
+ },
+ {
+  "id": "VA-1011",
+  "slug": "ascend-track-jacket",
+  "name": "Ascend Track Jacket",
+  "garment": "jacket",
+  "category": "Jackets",
+  "gender": "men",
+  "price": 105,
+  "salePrice": null,
+  "rating": 4.6,
+  "reviews": 132,
+  "popularity": 63,
+  "daysOld": 26,
+  "isNew": true,
+  "bestSeller": false,
+  "colors": [
+   {
+    "key": "black",
+    "name": "Black",
+    "hex": "#17181b"
+   },
+   {
+    "key": "navy",
+    "name": "Midnight Navy",
+    "hex": "#243044"
+   },
+   {
+    "key": "stone",
+    "name": "Stone",
+    "hex": "#c8c2b8"
+   }
+  ],
+  "sizes": [
+   {
+    "size": "XS",
+    "inStock": true
+   },
+   {
+    "size": "S",
+    "inStock": true
+   },
+   {
+    "size": "M",
+    "inStock": true
+   },
+   {
+    "size": "L",
+    "inStock": true
+   },
+   {
+    "size": "XL",
+    "inStock": true
+   },
+   {
+    "size": "XXL",
+    "inStock": true
+   }
+  ],
+  "tagline": "A retro-cut track jacket rebuilt in a modern matte technical twill.",
+  "description": "A retro-cut track jacket rebuilt in a modern matte technical twill. The Ascend Track Jacket is part of the VOLT ATHLETICS core range, developed with athletes over eighteen months of wear testing and refined down to the last seam. Cut from a premium performance fabric that holds its shape wash after wash, it is designed to feel as considered on the street as it does under load.",
+  "fit": "Regular fit with room to layer a mid-weight top underneath.",
+  "fabric": "100% recycled ripstop nylon with a PFC-free DWR finish.",
+  "features": [
+   "Water-repellent PFC-free finish",
+   "Full-length reverse-coil zip",
+   "Elasticated storm cuffs",
+   "Packs into its own pocket"
+  ],
+  "care": "Machine wash cold with like colours. Do not tumble dry. Do not iron print."
+ },
+ {
+  "id": "VA-1012",
+  "slug": "core-fleece-joggers",
+  "name": "Core Fleece Joggers",
+  "garment": "joggers",
+  "category": "Joggers",
+  "gender": "men",
+  "price": 78,
+  "salePrice": 62,
+  "rating": 4.8,
+  "reviews": 267,
+  "popularity": 90,
+  "daysOld": 52,
+  "isNew": false,
+  "bestSeller": true,
+  "colors": [
+   {
+    "key": "graphite",
+    "name": "Graphite",
+    "hex": "#4a4d55"
+   },
+   {
+    "key": "black",
+    "name": "Black",
+    "hex": "#17181b"
+   },
+   {
+    "key": "olive",
+    "name": "Olive",
+    "hex": "#5f6a4a"
+   }
+  ],
+  "sizes": [
+   {
+    "size": "XS",
+    "inStock": false
+   },
+   {
+    "size": "S",
+    "inStock": true
+   },
+   {
+    "size": "M",
+    "inStock": true
+   },
+   {
+    "size": "L",
+    "inStock": true
+   },
+   {
+    "size": "XL",
+    "inStock": true
+   },
+   {
+    "size": "XXL",
+    "inStock": true
+   }
+  ],
+  "tagline": "Soft-brushed fleece joggers with a tapered ankle and deep side pockets.",
+  "description": "Soft-brushed fleece joggers with a tapered ankle and deep side pockets. The Core Fleece Joggers is part of the VOLT ATHLETICS core range, developed with athletes over eighteen months of wear testing and refined down to the last seam. Cut from a premium performance fabric that holds its shape wash after wash, it is designed to feel as considered on the street as it does under load.",
+  "fit": "Tapered fit through the thigh and calf.",
+  "fabric": "75% organic cotton, 21% recycled polyester, 4% elastane.",
+  "features": [
+   "Tapered leg with cuffed ankle",
+   "Two deep side pockets and a zip back pocket",
+   "Flat drawcord waistband",
+   "Pre-shrunk fabric"
+  ],
+  "care": "Machine wash cold with like colours. Do not tumble dry. Do not iron print."
+ },
+ {
+  "id": "VA-1013",
+  "slug": "flux-sculpt-leggings",
+  "name": "Flux Sculpt Leggings",
+  "garment": "leggings",
+  "category": "Leggings",
+  "gender": "women",
+  "price": 68,
+  "salePrice": null,
+  "rating": 4.9,
+  "reviews": 604,
+  "popularity": 99,
+  "daysOld": 30,
+  "isNew": true,
+  "bestSeller": true,
+  "colors": [
+   {
+    "key": "black",
+    "name": "Black",
+    "hex": "#17181b"
+   },
+   {
+    "key": "mocha",
+    "name": "Mocha",
+    "hex": "#8a6f5e"
+   },
+   {
+    "key": "teal",
+    "name": "Deep Teal",
+    "hex": "#2b5c58"
+   },
+   {
+    "key": "rose",
+    "name": "Dusty Rose",
+    "hex": "#d9a9a4"
+   }
+  ],
+  "sizes": [
+   {
+    "size": "XS",
+    "inStock": false
+   },
+   {
+    "size": "S",
+    "inStock": true
+   },
+   {
+    "size": "M",
+    "inStock": true
+   },
+   {
+    "size": "L",
+    "inStock": true
+   },
+   {
+    "size": "XL",
+    "inStock": true
+   },
+   {
+    "size": "XXL",
+    "inStock": true
+   }
+  ],
+  "tagline": "Sculpting compression knit with a contoured waistband that never rolls.",
+  "description": "Sculpting compression knit with a contoured waistband that never rolls. The Flux Sculpt Leggings is part of the VOLT ATHLETICS core range, developed with athletes over eighteen months of wear testing and refined down to the last seam. Cut from a premium performance fabric that holds its shape wash after wash, it is designed to feel as considered on the street as it does under load.",
+  "fit": "Compressive fit. True to size.",
+  "fabric": "76% recycled nylon, 24% elastane. 240gsm sculpt knit.",
+  "features": [
+   "Squat-proof opaque knit",
+   "Contoured no-roll waistband",
+   "Hidden waistband pocket",
+   "Bonded gusset for comfort"
+  ],
+  "care": "Machine wash cold with like colours. Do not tumble dry. Do not iron print."
+ },
+ {
+  "id": "VA-1014",
+  "slug": "halo-seamless-sports-bra",
+  "name": "Halo Seamless Sports Bra",
+  "garment": "bra",
+  "category": "Sports Bras",
+  "gender": "women",
+  "price": 44,
+  "salePrice": null,
+  "rating": 4.8,
+  "reviews": 388,
+  "popularity": 94,
+  "daysOld": 19,
+  "isNew": true,
+  "bestSeller": true,
+  "colors": [
+   {
+    "key": "black",
+    "name": "Black",
+    "hex": "#17181b"
+   },
+   {
+    "key": "rose",
+    "name": "Dusty Rose",
+    "hex": "#d9a9a4"
+   },
+   {
+    "key": "ice",
+    "name": "Ice Grey",
+    "hex": "#cdd8de"
+   }
+  ],
+  "sizes": [
+   {
+    "size": "XS",
+    "inStock": true
+   },
+   {
+    "size": "S",
+    "inStock": true
+   },
+   {
+    "size": "M",
+    "inStock": true
+   },
+   {
+    "size": "L",
+    "inStock": true
+   },
+   {
+    "size": "XL",
+    "inStock": true
+   },
+   {
+    "size": "XXL",
+    "inStock": false
+   }
+  ],
+  "tagline": "Medium-support seamless bra with a racerback and removable cups.",
+  "description": "Medium-support seamless bra with a racerback and removable cups. The Halo Seamless Sports Bra is part of the VOLT ATHLETICS core range, developed with athletes over eighteen months of wear testing and refined down to the last seam. Cut from a premium performance fabric that holds its shape wash after wash, it is designed to feel as considered on the street as it does under load.",
+  "fit": "Snug support fit. Size up between sizes for comfort.",
+  "fabric": "78% recycled nylon, 22% elastane. Seamless circular knit.",
+  "features": [
+   "Removable moulded cups",
+   "Seamless zoned support knit",
+   "Wide underband for stability",
+   "Racerback straps"
+  ],
+  "care": "Machine wash cold with like colours. Do not tumble dry. Do not iron print."
+ },
+ {
+  "id": "VA-1015",
+  "slug": "aria-cropped-hoodie",
+  "name": "Aria Cropped Hoodie",
+  "garment": "hoodie",
+  "category": "Hoodies",
+  "gender": "women",
+  "price": 82,
+  "salePrice": 66,
+  "rating": 4.7,
+  "reviews": 245,
+  "popularity": 86,
+  "daysOld": 41,
+  "isNew": false,
+  "bestSeller": true,
+  "colors": [
+   {
+    "key": "stone",
+    "name": "Stone",
+    "hex": "#c8c2b8"
+   },
+   {
+    "key": "black",
+    "name": "Black",
+    "hex": "#17181b"
+   },
+   {
+    "key": "lilac",
+    "name": "Lilac",
+    "hex": "#b6aecb"
+   }
+  ],
+  "sizes": [
+   {
+    "size": "XS",
+    "inStock": true
+   },
+   {
+    "size": "S",
+    "inStock": true
+   },
+   {
+    "size": "M",
+    "inStock": true
+   },
+   {
+    "size": "L",
+    "inStock": true
+   },
+   {
+    "size": "XL",
+    "inStock": true
+   },
+   {
+    "size": "XXL",
+    "inStock": true
+   }
+  ],
+  "tagline": "A cropped, boxy hoodie in a soft loopback cotton blend.",
+  "description": "A cropped, boxy hoodie in a soft loopback cotton blend. The Aria Cropped Hoodie is part of the VOLT ATHLETICS core range, developed with athletes over eighteen months of wear testing and refined down to the last seam. Cut from a premium performance fabric that holds its shape wash after wash, it is designed to feel as considered on the street as it does under load.",
+  "fit": "Oversized fit. Size down for a closer silhouette.",
+  "fabric": "80% organic cotton, 20% recycled polyester. Brushed back fleece.",
+  "features": [
+   "Double-layer structured hood",
+   "Kangaroo pocket with hidden phone sleeve",
+   "Ribbed cuffs and hem",
+   "Matte woven bolt label at the hem"
+  ],
+  "care": "Machine wash cold with like colours. Do not tumble dry. Do not iron print."
+ },
+ {
+  "id": "VA-1016",
+  "slug": "solstice-ribbed-tank",
+  "name": "Solstice Ribbed Tank",
+  "garment": "tank",
+  "category": "Tank Tops",
+  "gender": "women",
+  "price": 36,
+  "salePrice": null,
+  "rating": 4.6,
+  "reviews": 157,
+  "popularity": 71,
+  "daysOld": 9,
+  "isNew": true,
+  "bestSeller": false,
+  "colors": [
+   {
+    "key": "white",
+    "name": "Off White",
+    "hex": "#f2f2f3"
+   },
+   {
+    "key": "black",
+    "name": "Black",
+    "hex": "#17181b"
+   },
+   {
+    "key": "sand",
+    "name": "Desert Sand",
+    "hex": "#d9cbb6"
+   }
+  ],
+  "sizes": [
+   {
+    "size": "XS",
+    "inStock": false
+   },
+   {
+    "size": "S",
+    "inStock": true
+   },
+   {
+    "size": "M",
+    "inStock": true
+   },
+   {
+    "size": "L",
+    "inStock": true
+   },
+   {
+    "size": "XL",
+    "inStock": true
+   },
+   {
+    "size": "XXL",
+    "inStock": true
+   }
+  ],
+  "tagline": "A fitted rib tank with a scooped back and buttery hand-feel.",
+  "description": "A fitted rib tank with a scooped back and buttery hand-feel. The Solstice Ribbed Tank is part of the VOLT ATHLETICS core range, developed with athletes over eighteen months of wear testing and refined down to the last seam. Cut from a premium performance fabric that holds its shape wash after wash, it is designed to feel as considered on the street as it does under load.",
+  "fit": "Relaxed fit. Model is 5'9\" / 175cm and wears a size S.",
+  "fabric": "60% cotton, 35% recycled polyester, 5% elastane. 180gsm.",
+  "features": [
+   "Dropped armholes for full range of motion",
+   "Ribbed, shape-retaining knit",
+   "Tagless neck print",
+   "Scooped hem"
+  ],
+  "care": "Machine wash cold with like colours. Do not tumble dry. Do not iron print."
+ },
+ {
+  "id": "VA-1017",
+  "slug": "vapor-high-rise-leggings",
+  "name": "Vapor High-Rise Leggings",
+  "garment": "leggings",
+  "category": "Leggings",
+  "gender": "women",
+  "price": 74,
+  "salePrice": 56,
+  "rating": 4.8,
+  "reviews": 421,
+  "popularity": 93,
+  "daysOld": 63,
+  "isNew": false,
+  "bestSeller": true,
+  "colors": [
+   {
+    "key": "black",
+    "name": "Black",
+    "hex": "#17181b"
+   },
+   {
+    "key": "graphite",
+    "name": "Graphite",
+    "hex": "#4a4d55"
+   },
+   {
+    "key": "burgundy",
+    "name": "Burgundy",
+    "hex": "#5e2733"
+   }
+  ],
+  "sizes": [
+   {
+    "size": "XS",
+    "inStock": true
+   },
+   {
+    "size": "S",
+    "inStock": false
+   },
+   {
+    "size": "M",
+    "inStock": true
+   },
+   {
+    "size": "L",
+    "inStock": true
+   },
+   {
+    "size": "XL",
+    "inStock": true
+   },
+   {
+    "size": "XXL",
+    "inStock": true
+   }
+  ],
+  "tagline": "Weightless second-skin leggings with a squat-proof high rise.",
+  "description": "Weightless second-skin leggings with a squat-proof high rise. The Vapor High-Rise Leggings is part of the VOLT ATHLETICS core range, developed with athletes over eighteen months of wear testing and refined down to the last seam. Cut from a premium performance fabric that holds its shape wash after wash, it is designed to feel as considered on the street as it does under load.",
+  "fit": "Compressive fit. True to size.",
+  "fabric": "76% recycled nylon, 24% elastane. 240gsm sculpt knit.",
+  "features": [
+   "Squat-proof opaque knit",
+   "Contoured no-roll waistband",
+   "Hidden waistband pocket",
+   "Bonded gusset for comfort"
+  ],
+  "care": "Machine wash cold with like colours. Do not tumble dry. Do not iron print."
+ },
+ {
+  "id": "VA-1018",
+  "slug": "echo-longline-bra",
+  "name": "Echo Longline Bra",
+  "garment": "bra",
+  "category": "Sports Bras",
+  "gender": "women",
+  "price": 48,
+  "salePrice": null,
+  "rating": 4.7,
+  "reviews": 202,
+  "popularity": 78,
+  "daysOld": 14,
+  "isNew": true,
+  "bestSeller": false,
+  "colors": [
+   {
+    "key": "black",
+    "name": "Black",
+    "hex": "#17181b"
+   },
+   {
+    "key": "teal",
+    "name": "Deep Teal",
+    "hex": "#2b5c58"
+   },
+   {
+    "key": "mocha",
+    "name": "Mocha",
+    "hex": "#8a6f5e"
+   }
+  ],
+  "sizes": [
+   {
+    "size": "XS",
+    "inStock": true
+   },
+   {
+    "size": "S",
+    "inStock": true
+   },
+   {
+    "size": "M",
+    "inStock": true
+   },
+   {
+    "size": "L",
+    "inStock": true
+   },
+   {
+    "size": "XL",
+    "inStock": true
+   },
+   {
+    "size": "XXL",
+    "inStock": true
+   }
+  ],
+  "tagline": "Longline coverage and high support for the heaviest training days.",
+  "description": "Longline coverage and high support for the heaviest training days. The Echo Longline Bra is part of the VOLT ATHLETICS core range, developed with athletes over eighteen months of wear testing and refined down to the last seam. Cut from a premium performance fabric that holds its shape wash after wash, it is designed to feel as considered on the street as it does under load.",
+  "fit": "Snug support fit. Size up between sizes for comfort.",
+  "fabric": "78% recycled nylon, 22% elastane. Seamless circular knit.",
+  "features": [
+   "Removable moulded cups",
+   "Seamless zoned support knit",
+   "Wide underband for stability",
+   "Racerback straps"
+  ],
+  "care": "Machine wash cold with like colours. Do not tumble dry. Do not iron print."
+ },
+ {
+  "id": "VA-1019",
+  "slug": "luxe-lounge-joggers",
+  "name": "Luxe Lounge Joggers",
+  "garment": "joggers",
+  "category": "Joggers",
+  "gender": "women",
+  "price": 76,
+  "salePrice": null,
+  "rating": 4.6,
+  "reviews": 188,
+  "popularity": 73,
+  "daysOld": 36,
+  "isNew": false,
+  "bestSeller": false,
+  "colors": [
+   {
+    "key": "sand",
+    "name": "Desert Sand",
+    "hex": "#d9cbb6"
+   },
+   {
+    "key": "black",
+    "name": "Black",
+    "hex": "#17181b"
+   },
+   {
+    "key": "lilac",
+    "name": "Lilac",
+    "hex": "#b6aecb"
+   }
+  ],
+  "sizes": [
+   {
+    "size": "XS",
+    "inStock": true
+   },
+   {
+    "size": "S",
+    "inStock": true
+   },
+   {
+    "size": "M",
+    "inStock": true
+   },
+   {
+    "size": "L",
+    "inStock": true
+   },
+   {
+    "size": "XL",
+    "inStock": true
+   },
+   {
+    "size": "XXL",
+    "inStock": false
+   }
+  ],
+  "tagline": "A relaxed lounge jogger with a drawcord waist and cropped ankle.",
+  "description": "A relaxed lounge jogger with a drawcord waist and cropped ankle. The Luxe Lounge Joggers is part of the VOLT ATHLETICS core range, developed with athletes over eighteen months of wear testing and refined down to the last seam. Cut from a premium performance fabric that holds its shape wash after wash, it is designed to feel as considered on the street as it does under load.",
+  "fit": "Tapered fit through the thigh and calf.",
+  "fabric": "75% organic cotton, 21% recycled polyester, 4% elastane.",
+  "features": [
+   "Tapered leg with cuffed ankle",
+   "Two deep side pockets and a zip back pocket",
+   "Flat drawcord waistband",
+   "Pre-shrunk fabric"
+  ],
+  "care": "Machine wash cold with like colours. Do not tumble dry. Do not iron print."
+ },
+ {
+  "id": "VA-1020",
+  "slug": "motion-flow-shorts",
+  "name": "Motion Flow Shorts",
+  "garment": "shorts",
+  "category": "Shorts",
+  "gender": "women",
+  "price": 40,
+  "salePrice": 30,
+  "rating": 4.5,
+  "reviews": 173,
+  "popularity": 67,
+  "daysOld": 71,
+  "isNew": false,
+  "bestSeller": false,
+  "colors": [
+   {
+    "key": "black",
+    "name": "Black",
+    "hex": "#17181b"
+   },
+   {
+    "key": "rose",
+    "name": "Dusty Rose",
+    "hex": "#d9a9a4"
+   },
+   {
+    "key": "olive",
+    "name": "Olive",
+    "hex": "#5f6a4a"
+   }
+  ],
+  "sizes": [
+   {
+    "size": "XS",
+    "inStock": true
+   },
+   {
+    "size": "S",
+    "inStock": true
+   },
+   {
+    "size": "M",
+    "inStock": true
+   },
+   {
+    "size": "L",
+    "inStock": true
+   },
+   {
+    "size": "XL",
+    "inStock": true
+   },
+   {
+    "size": "XXL",
+    "inStock": true
+   }
+  ],
+  "tagline": "Flowy two-in-one shorts over a bonded compression short liner.",
+  "description": "Flowy two-in-one shorts over a bonded compression short liner. The Motion Flow Shorts is part of the VOLT ATHLETICS core range, developed with athletes over eighteen months of wear testing and refined down to the last seam. Cut from a premium performance fabric that holds its shape wash after wash, it is designed to feel as considered on the street as it does under load.",
+  "fit": "Regular fit. Sits on the natural waist.",
+  "fabric": "88% recycled polyester, 12% elastane. Bonded mesh liner.",
+  "features": [
+   "Bonded compression liner",
+   "Zip valuables pocket",
+   "Laser-cut ventilation",
+   "Internal drawcord"
+  ],
+  "care": "Machine wash cold with like colours. Do not tumble dry. Do not iron print."
+ },
+ {
+  "id": "VA-1021",
+  "slug": "aura-oversized-tee",
+  "name": "Aura Oversized Tee",
+  "garment": "tshirt",
+  "category": "T-Shirts",
+  "gender": "women",
+  "price": 40,
+  "salePrice": null,
+  "rating": 4.5,
+  "reviews": 149,
+  "popularity": 64,
+  "daysOld": 6,
+  "isNew": true,
+  "bestSeller": false,
+  "colors": [
+   {
+    "key": "white",
+    "name": "Off White",
+    "hex": "#f2f2f3"
+   },
+   {
+    "key": "black",
+    "name": "Black",
+    "hex": "#17181b"
+   },
+   {
+    "key": "mocha",
+    "name": "Mocha",
+    "hex": "#8a6f5e"
+   }
+  ],
+  "sizes": [
+   {
+    "size": "XS",
+    "inStock": true
+   },
+   {
+    "size": "S",
+    "inStock": true
+   },
+   {
+    "size": "M",
+    "inStock": true
+   },
+   {
+    "size": "L",
+    "inStock": true
+   },
+   {
+    "size": "XL",
+    "inStock": true
+   },
+   {
+    "size": "XXL",
+    "inStock": true
+   }
+  ],
+  "tagline": "An oversized boyfriend tee cut from heavyweight combed cotton.",
+  "description": "An oversized boyfriend tee cut from heavyweight combed cotton. The Aura Oversized Tee is part of the VOLT ATHLETICS core range, developed with athletes over eighteen months of wear testing and refined down to the last seam. Cut from a premium performance fabric that holds its shape wash after wash, it is designed to feel as considered on the street as it does under load.",
+  "fit": "Regular fit. Model is 6'0\" / 183cm and wears a size M.",
+  "fabric": "82% recycled polyester, 18% elastane. 145gsm.",
+  "features": [
+   "Sweat-wicking quick-dry knit",
+   "Flatlock seams to stop chafing",
+   "Anti-odour finish",
+   "Reflective heat-pressed bolt at the back neck"
+  ],
+  "care": "Machine wash cold with like colours. Do not tumble dry. Do not iron print."
+ },
+ {
+  "id": "VA-1022",
+  "slug": "trail-lightweight-jacket",
+  "name": "Trail Lightweight Jacket",
+  "garment": "jacket",
+  "category": "Jackets",
+  "gender": "women",
+  "price": 112,
+  "salePrice": null,
+  "rating": 4.6,
+  "reviews": 118,
+  "popularity": 60,
+  "daysOld": 24,
+  "isNew": true,
+  "bestSeller": false,
+  "colors": [
+   {
+    "key": "ice",
+    "name": "Ice Grey",
+    "hex": "#cdd8de"
+   },
+   {
+    "key": "black",
+    "name": "Black",
+    "hex": "#17181b"
+   },
+   {
+    "key": "teal",
+    "name": "Deep Teal",
+    "hex": "#2b5c58"
+   }
+  ],
+  "sizes": [
+   {
+    "size": "XS",
+    "inStock": false
+   },
+   {
+    "size": "S",
+    "inStock": true
+   },
+   {
+    "size": "M",
+    "inStock": true
+   },
+   {
+    "size": "L",
+    "inStock": true
+   },
+   {
+    "size": "XL",
+    "inStock": true
+   },
+   {
+    "size": "XXL",
+    "inStock": true
+   }
+  ],
+  "tagline": "A wind-resistant running shell that folds into its own chest pocket.",
+  "description": "A wind-resistant running shell that folds into its own chest pocket. The Trail Lightweight Jacket is part of the VOLT ATHLETICS core range, developed with athletes over eighteen months of wear testing and refined down to the last seam. Cut from a premium performance fabric that holds its shape wash after wash, it is designed to feel as considered on the street as it does under load.",
+  "fit": "Regular fit with room to layer a mid-weight top underneath.",
+  "fabric": "100% recycled ripstop nylon with a PFC-free DWR finish.",
+  "features": [
+   "Water-repellent PFC-free finish",
+   "Full-length reverse-coil zip",
+   "Elasticated storm cuffs",
+   "Packs into its own pocket"
+  ],
+  "care": "Machine wash cold with like colours. Do not tumble dry. Do not iron print."
+ },
+ {
+  "id": "VA-1023",
+  "slug": "prism-training-leggings",
+  "name": "Prism Training Leggings",
+  "garment": "leggings",
+  "category": "Leggings",
+  "gender": "women",
+  "price": 70,
+  "salePrice": null,
+  "rating": 4.7,
+  "reviews": 264,
+  "popularity": 84,
+  "daysOld": 11,
+  "isNew": true,
+  "bestSeller": true,
+  "colors": [
+   {
+    "key": "navy",
+    "name": "Midnight Navy",
+    "hex": "#243044"
+   },
+   {
+    "key": "black",
+    "name": "Black",
+    "hex": "#17181b"
+   },
+   {
+    "key": "crimson",
+    "name": "Crimson",
+    "hex": "#8f2231"
+   }
+  ],
+  "sizes": [
+   {
+    "size": "XS",
+    "inStock": true
+   },
+   {
+    "size": "S",
+    "inStock": true
+   },
+   {
+    "size": "M",
+    "inStock": true
+   },
+   {
+    "size": "L",
+    "inStock": true
+   },
+   {
+    "size": "XL",
+    "inStock": true
+   },
+   {
+    "size": "XXL",
+    "inStock": true
+   }
+  ],
+  "tagline": "Panelled training leggings with mesh vents behind the knee.",
+  "description": "Panelled training leggings with mesh vents behind the knee. The Prism Training Leggings is part of the VOLT ATHLETICS core range, developed with athletes over eighteen months of wear testing and refined down to the last seam. Cut from a premium performance fabric that holds its shape wash after wash, it is designed to feel as considered on the street as it does under load.",
+  "fit": "Compressive fit. True to size.",
+  "fabric": "76% recycled nylon, 24% elastane. 240gsm sculpt knit.",
+  "features": [
+   "Squat-proof opaque knit",
+   "Contoured no-roll waistband",
+   "Hidden waistband pocket",
+   "Bonded gusset for comfort"
+  ],
+  "care": "Machine wash cold with like colours. Do not tumble dry. Do not iron print."
+ },
+ {
+  "id": "VA-1024",
+  "slug": "bloom-strappy-bra",
+  "name": "Bloom Strappy Bra",
+  "garment": "bra",
+  "category": "Sports Bras",
+  "gender": "women",
+  "price": 42,
+  "salePrice": 33,
+  "rating": 4.4,
+  "reviews": 131,
+  "popularity": 56,
+  "daysOld": 79,
+  "isNew": false,
+  "bestSeller": false,
+  "colors": [
+   {
+    "key": "rose",
+    "name": "Dusty Rose",
+    "hex": "#d9a9a4"
+   },
+   {
+    "key": "black",
+    "name": "Black",
+    "hex": "#17181b"
+   },
+   {
+    "key": "lilac",
+    "name": "Lilac",
+    "hex": "#b6aecb"
+   }
+  ],
+  "sizes": [
+   {
+    "size": "XS",
+    "inStock": true
+   },
+   {
+    "size": "S",
+    "inStock": true
+   },
+   {
+    "size": "M",
+    "inStock": true
+   },
+   {
+    "size": "L",
+    "inStock": true
+   },
+   {
+    "size": "XL",
+    "inStock": true
+   },
+   {
+    "size": "XXL",
+    "inStock": false
+   }
+  ],
+  "tagline": "A light-support strappy bra designed for studio work and rest days.",
+  "description": "A light-support strappy bra designed for studio work and rest days. The Bloom Strappy Bra is part of the VOLT ATHLETICS core range, developed with athletes over eighteen months of wear testing and refined down to the last seam. Cut from a premium performance fabric that holds its shape wash after wash, it is designed to feel as considered on the street as it does under load.",
+  "fit": "Snug support fit. Size up between sizes for comfort.",
+  "fabric": "78% recycled nylon, 22% elastane. Seamless circular knit.",
+  "features": [
+   "Removable moulded cups",
+   "Seamless zoned support knit",
+   "Wide underband for stability",
+   "Racerback straps"
+  ],
+  "care": "Machine wash cold with like colours. Do not tumble dry. Do not iron print."
+ }
+]

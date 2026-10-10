@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0b0b0d">
+<title>VOLT ATHLETICS — Premium Performance Sportswear</title>
+<meta name="description" content="VOLT ATHLETICS designs premium training wear for lifters, runners and everyone who shows up. Train hard. Look better.">
+<link rel="icon" href="images/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/responsive.css">
+</head>
+<body data-page="home" data-nav="home">
+<a class="skip-link" href="#main">Skip to content</a>
+<div id="site-header"></div>
+
+<main id="main">
+
+  <!-- ============================================================ hero -->
+  <section class="hero">
+    <div class="hero__bg"><div class="hero__grid-lines"></div></div>
+    <div class="container">
+      <div class="hero__inner">
+        <div>
+          <p class="eyebrow eyebrow--accent" data-reveal>Season 04 · Now shipping</p>
+          <h1 class="hero__title" data-reveal data-reveal-delay="1">
+            <span>Train hard.</span>
+            <span class="accent">Look better.</span>
+          </h1>
+          <p class="lede" data-reveal data-reveal-delay="2">
+            Performance sportswear engineered for the work, finished for the street.
+            Premium fabrics, considered cuts, built to outlast the season.
+          </p>
+          <div class="hero__cta" data-reveal data-reveal-delay="3">
+            <a class="btn btn--light btn--lg" href="shop-men.html">Shop men</a>
+            <a class="btn btn--outline-light btn--lg" href="shop-women.html">Shop women</a>
+          </div>
+          <div class="hero__meta" data-reveal data-reveal-delay="4">
+            <div><strong>4.8/5</strong><span>18,400 reviews</span></div>
+            <div><strong>30 days</strong><span>Free returns</span></div>
+            <div><strong>Free</strong><span>Shipping over $75</span></div>
+          </div>
+        </div>
+        <div class="hero__visual" id="heroVisual" data-reveal data-reveal-delay="2"></div>
+      </div>
+    </div>
+  </section>
+
+  <div class="marquee" aria-hidden="true">
+    <div class="marquee__track">
+      <span>Free express shipping over $75</span><span>New season drop live</span>
+      <span>30-day free returns</span><span>Recycled performance fabrics</span>
+      <span>Free express shipping over $75</span><span>New season drop live</span>
+      <span>30-day free returns</span><span>Recycled performance fabrics</span>
+    </div>
+  </div>
+
+  <!-- ============================================== featured categories -->
+  <section class="section">
+    <div class="container">
+      <div class="section-head" data-reveal>
+        <div>
+          <p class="eyebrow">Shop by category</p>
+          <h2 class="h2">Find your kit</h2>
+        </div>
+        <a class="link-underline" href="new-arrivals.html">View everything</a>
+      </div>
+      <div class="cat-grid" id="categoryGrid"></div>
+      <div class="cat-grid" id="categoryGrid2" style="margin-top:clamp(12px,1.4vw,20px)"></div>
+    </div>
+  </section>
+
+  <!-- ==================================================== new arrivals -->
+  <section class="section section--gray">
+    <div class="container">
+      <div class="section-head" data-reveal>
+        <div>
+          <p class="eyebrow">Just landed</p>
+          <h2 class="h2">New arrivals</h2>
+          <p class="lede">The latest additions to the core range, tested through a full training block before release.</p>
+        </div>
+        <a class="link-underline" href="new-arrivals.html">Shop all new</a>
+      </div>
+      <div class="product-grid product-grid--4" id="homeNew" data-reveal></div>
+    </div>
+  </section>
+
+  <!-- ================================================= promo / banner -->
+  <section class="section">
+    <div class="container">
+      <div class="promo" data-reveal>
+        <div class="promo__glow" aria-hidden="true"></div>
+        <div class="promo__body">
+          <p class="eyebrow eyebrow--accent">Limited time</p>
+          <h2 class="h2">Up to 30% off<br>selected training gear</h2>
+          <p>End of season markdowns across tees, shorts and outerwear. Once they are gone, they are gone — no restocks on sale styles.</p>
+          <div class="promo__timer" id="promoTimer" aria-label="Offer countdown"></div>
+          <div class="flex gap-12 wrap">
+            <a class="btn btn--accent" href="sale.html">Shop the sale</a>
+            <a class="btn btn--outline-light" href="best-sellers.html">Best sellers</a>
+          </div>
+        </div>
+        <div class="promo__media">
+          <img id="promoImage" src="images/products/apex-performance-tee-black-studio.svg" alt="Sale styles" loading="lazy" width="600" height="750">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================================================== best sellers -->
+  <section class="section section--tight">
+    <div class="container">
+      <div class="section-head" data-reveal>
+        <div>
+          <p class="eyebrow">Loved by the roster</p>
+          <h2 class="h2">Best sellers</h2>
+        </div>
+        <a class="link-underline" href="best-sellers.html">See the full list</a>
+      </div>
+      <div class="product-grid product-grid--4" id="homeBest" data-reveal></div>
+    </div>
+  </section>
+
+  <!-- ====================================================== collections -->
+  <section class="section">
+    <div class="container">
+      <div class="section-head" data-reveal>
+        <div>
+          <p class="eyebrow">Curated</p>
+          <h2 class="h2">Collections</h2>
+        </div>
+      </div>
+      <div class="split-banner" id="collectionsGrid"></div>
+    </div>
+  </section>
+
+  <!-- ======================================================== features -->
+  <section class="section section--dark section--tight">
+    <div class="container">
+      <div class="feature-row">
+        <div class="feature" data-reveal>
+          <span class="feature__icon" aria-hidden="true"></span>
+          <div><h4>Free express shipping</h4><p>On every order over $75, dispatched the same working day.</p></div>
+        </div>
+        <div class="feature" data-reveal data-reveal-delay="1">
+          <span class="feature__icon" aria-hidden="true"></span>
+          <div><h4>30-day free returns</h4><p>Changed your mind? Send it back with the prepaid label.</p></div>
+        </div>
+        <div class="feature" data-reveal data-reveal-delay="2">
+          <span class="feature__icon" aria-hidden="true"></span>
+          <div><h4>Two-year guarantee</h4><p>Seams and stitching covered. We repair before we replace.</p></div>
+        </div>
+        <div class="feature" data-reveal data-reveal-delay="3">
+          <span class="feature__icon" aria-hidden="true"></span>
+          <div><h4>Real human support</h4><p>Live chat Mon–Fri, 8am–8pm. Same-day answers.</p></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========================================================== social -->
+  <section class="section section--tight">
+    <div class="container">
+      <div class="section-head" data-reveal>
+        <div>
+          <p class="eyebrow">@voltathletics</p>
+          <h2 class="h2">In the wild</h2>
+        </div>
+        <a class="link-underline" href="best-sellers.html">Shop the feed</a>
+      </div>
+      <div class="insta-grid" id="instaGrid"></div>
+    </div>
+  </section>
+
+  <!-- ====================================================== newsletter -->
+  <section class="section section--dark newsletter">
+    <div class="newsletter__glow" aria-hidden="true"></div>
+    <div class="container">
+      <div class="newsletter__inner" data-reveal>
+        <p class="eyebrow eyebrow--accent">Join the club</p>
+        <h2 class="h2" style="margin:12px 0 14px">Get first access<br>to every drop</h2>
+        <p class="lede" style="color:rgba(255,255,255,.7)">
+          Early access, member pricing and training content. No spam, unsubscribe in one click.
+        </p>
+        <form class="newsletter__form" data-newsletter novalidate>
+          <input class="input" type="email" name="email" placeholder="Enter your email" aria-label="Email address" required>
+          <button class="btn btn--accent btn--lg" type="submit">Sign up</button>
+        </form>
+        <p class="small" style="margin-top:14px;color:var(--gray-500)">
+          By subscribing you agree to our <a href="info.html?topic=privacy" style="text-decoration:underline">Privacy Policy</a>.
+        </p>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<div id="site-footer"></div>
+
+<script src="js/products.js"></script>
+<script src="js/cart.js"></script>
+<script src="js/wishlist.js"></script>
+<script src="js/auth.js"></script>
+<script src="js/app.js"></script>
+<script src="js/home.js"></script>
+<script>
+  /* Feature icons are injected after the icon set is available. */
+  document.addEventListener('DOMContentLoaded', function () {
+    var names = ['truck', 'refresh', 'shield', 'headset'];
+    document.querySelectorAll('.feature__icon').forEach(function (el, i) {
+      el.innerHTML = VOLT.icon(names[i % names.length], 20);
+    });
+  });
+</script>
+</body>
+</html>

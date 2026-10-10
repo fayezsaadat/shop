@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0b0b0d">
+<title>Create Account — VOLT ATHLETICS</title>
+<meta name="description" content="Create a VOLT ATHLETICS account for faster checkout, order tracking and early access to new drops.">
+<meta name="robots" content="noindex">
+<link rel="icon" href="images/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/responsive.css">
+</head>
+<body data-page="register">
+<a class="skip-link" href="#main">Skip to content</a>
+<div id="site-header"></div>
+
+<main id="main">
+  <div class="auth-layout">
+
+    <aside class="auth-aside">
+      <div class="auth-aside__glow" aria-hidden="true"></div>
+      <div class="auth-aside__content">
+        <p class="eyebrow eyebrow--accent">Join VOLT</p>
+        <blockquote style="margin-top:16px">Show up.<br>Do the work.<br>Look the part.</blockquote>
+      </div>
+      <ul class="auth-aside__list">
+        <li><span data-icon="sparkle"></span><span>Early access to every drop before public release</span></li>
+        <li><span data-icon="truck"></span><span>Free express shipping on orders over $75</span></li>
+        <li><span data-icon="refresh"></span><span>Extended 60-day returns for members</span></li>
+        <li><span data-icon="gift"></span><span>Volt points on every order, redeemable at checkout</span></li>
+      </ul>
+    </aside>
+
+    <div class="auth-main">
+      <div class="auth-card">
+        <div class="auth-card__head">
+          <p class="eyebrow">Get started</p>
+          <h1 class="h1" style="font-size:clamp(1.9rem,3.6vw,2.6rem);margin:10px 0 8px">Create account</h1>
+          <p class="muted">Already a member? <a href="login.html" style="text-decoration:underline;text-underline-offset:3px;font-weight:600">Sign in</a></p>
+        </div>
+
+        <div id="registerAlert"></div>
+
+        <form id="registerForm" novalidate>
+          <div class="field-row">
+            <div class="field">
+              <label for="reg-first">First name</label>
+              <input class="input" id="reg-first" name="firstName" type="text" autocomplete="given-name"
+                     data-rules="required|name" placeholder="Alex">
+              <p class="error-text"></p>
+            </div>
+            <div class="field">
+              <label for="reg-last">Last name</label>
+              <input class="input" id="reg-last" name="lastName" type="text" autocomplete="family-name"
+                     data-rules="required|name" placeholder="Rivera">
+              <p class="error-text"></p>
+            </div>
+          </div>
+
+          <div class="field">
+            <label for="reg-email">Email address</label>
+            <input class="input" id="reg-email" name="email" type="email" autocomplete="email"
+                   data-rules="required|email" placeholder="you@example.com">
+            <p class="error-text"></p>
+          </div>
+
+          <div class="field">
+            <label for="reg-password">Password</label>
+            <div class="password-field">
+              <input class="input" id="reg-password" name="password" type="password" autocomplete="new-password"
+                     data-rules="required|password" placeholder="At least 8 characters">
+              <button class="password-toggle" type="button"></button>
+            </div>
+            <div class="meter"><span></span><span></span><span></span><span></span></div>
+            <p class="hint">Use 8+ characters with at least one letter and one number.</p>
+            <p class="error-text"></p>
+          </div>
+
+          <div class="field">
+            <label for="reg-confirm">Confirm password</label>
+            <div class="password-field">
+              <input class="input" id="reg-confirm" name="confirmPassword" type="password"
+                     autocomplete="new-password" data-rules="required|match:reg-password"
+                     data-label="Confirm password" placeholder="Re-enter your password">
+              <button class="password-toggle" type="button"></button>
+            </div>
+            <p class="error-text"></p>
+          </div>
+
+          <label class="check" style="margin-bottom:14px">
+            <input type="checkbox" name="newsletter" checked><span class="box"></span>
+            <span>Email me about drops, restocks and member pricing</span>
+          </label>
+
+          <div class="field" style="margin-bottom:22px">
+            <label class="check">
+              <input type="checkbox" name="terms" data-rules="checked" data-label="terms">
+              <span class="box"></span>
+              <span>I agree to the <a href="info.html?topic=terms" style="text-decoration:underline">Terms of Service</a>
+                and <a href="info.html?topic=privacy" style="text-decoration:underline">Privacy Policy</a></span>
+            </label>
+            <p class="error-text"></p>
+          </div>
+
+          <button class="btn btn--primary btn--block btn--lg" type="submit">Create account</button>
+        </form>
+
+        <div class="auth-divider">or sign up with</div>
+
+        <div class="social-auth">
+          <button class="btn btn--outline btn--block" type="button" data-social="Google">Google</button>
+          <button class="btn btn--outline btn--block" type="button" data-social="Apple">Apple</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<div id="site-footer"></div>
+
+<script src="js/products.js"></script>
+<script src="js/cart.js"></script>
+<script src="js/wishlist.js"></script>
+<script src="js/auth.js"></script>
+<script src="js/app.js"></script>
+<script src="js/account.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('[data-icon]').forEach(function (el) {
+      el.innerHTML = VOLT.icon(el.getAttribute('data-icon'), 19);
+    });
+    document.querySelectorAll('[data-social]').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        VOLT.ui.toast(btn.getAttribute('data-social') + ' sign-up arrives in Phase 2.', { icon: 'info' });
+      });
+    });
+  });
+</script>
+</body>
+</html>
